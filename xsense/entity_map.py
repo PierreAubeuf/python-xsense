@@ -195,9 +195,7 @@ entities = {
     'XS0B-MR': {
         'type': EntityType.SMOKE,
         'actions': [
-            TestAction(),
-            MuteAction(),
-            FireDrillAction(),
+            TestAction(),           
         ],
     },
     'XS03-iWX': {
